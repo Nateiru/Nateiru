@@ -6,6 +6,8 @@
 💡 Zhihu: [爱生活的小Peter](https://www.zhihu.com/people/zhu-zi-yi-47-6)
 
 📫 Email: zyzhu2001@gmail.com
+### Playform
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nateiru&layout=compact&hide=javascript,html,Tex)](https://github.com/anuraghazra/github-readme-stats)
