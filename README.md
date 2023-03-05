@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Nateiru
 > A student from Beijing University of Posts and Telecommunications
 
-🖋 Blog：[Nateiru's Blog](https://nateiru.github.io/)
+🖋 Blog: [Nateiru's Blog](https://nateiru.github.io/)
 
-💡 Zhihu：[爱生活的小Peter](https://www.zhihu.com/people/zhu-zi-yi-47-6)
+💡 Zhihu: [爱生活的小Peter](https://www.zhihu.com/people/zhu-zi-yi-47-6)
 
 📫 Email: zyzhu2001@gmail.com
 
