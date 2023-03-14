@@ -11,8 +11,8 @@
 
 ### Stats
 <div>
-<img style="display: inline-block; max-width: 50%; max-height: 50%; width: 350px; height: 450px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nateiru&layout=compact&hide=javascript,html,Tex" /> 
-<img style="display: inline-block; max-width: 50%; max-height: 50%; width: 465px; height: 450px;" src="https://github-readme-stats.vercel.app/api?username=Nateiru&show_icons=true&theme=cobalt" />
+<img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nateiru&layout=compact&hide=javascript,html,Tex" /> 
+<img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Nateiru&show_icons=true&theme=cobalt" />
 </div>
 
 <!--
