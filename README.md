@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nateiru ~
+### Hi there 👋 I am Bamboo1 ~
 > A student from Beijing University of Posts and Telecommunications
 
 🖋 Blog: [Nateiru's Blog](https://nateiru.github.io/)
