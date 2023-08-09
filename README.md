@@ -1,21 +1,15 @@
 ### Hi there 👋 I am Bamboo1 ~
 > A student from Beijing University of Posts and Telecommunications
 
-🖋 Blog: [Nateiru's Blog](https://nateiru.github.io/)
+- 🌱 I’m currently learning OS, DB...
 
-💡 Zhihu: [爱生活的小Peter](https://www.zhihu.com/people/zhu-zi-yi-47-6)
+- 💡 Zhihu: [爱生活的小Peter](https://www.zhihu.com/people/zhu-zi-yi-47-6)
 
-📫 Email: zyzhu2001@gmail.com
-### Languages and Tools
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📫 Email: zyzhu2001@gmail.com
 
-### Stats
-<!-- <div>
-<img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nateiru&layout=compact&hide=javascript,html,Tex" /> 
-<img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=Nateiru&show_icons=true&theme=cobalt" />
-</div> -->
+- 👯 I used to be participant in ACM contest, and won silver medal in the 2022 ICPC Asia Nanjing Regional Contest. [如何评价 ICPC 2022 南京站?](https://www.zhihu.com/question/572113636/answer/2808109581)
 
-![Nateiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nateiru&show_icons=true&theme=radical)
+  
 <!--
 **Nateiru/Nateiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
