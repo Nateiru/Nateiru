@@ -7,7 +7,7 @@
 
 - 📫 Email: zyzhu2001@gmail.com
 
-- 👯 I used to be participant in ACM contest, and won silver medal in the [2022 ICPC Asia Nanjing Regional Contest](https://www.zhihu.com/question/572113636/answer/2808109581).
+- 👯 I used to be participant in ACM contest, and won silver medal 🥈 in the [2022 ICPC Asia Nanjing Regional Contest](https://www.zhihu.com/question/572113636/answer/2808109581).
 
   
 <!--
