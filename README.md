@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Computer Architecture, ~OS, DB, Storage~...
 
-- 💡 Zhihu: [爱生活的小Peter](https://www.zhihu.com/people/zhu-zi-yi-47-6)
+- 💡 Zhihu: [秋天俯身采种子](https://www.zhihu.com/people/zhu-zi-yi-47-6)
 
 - 📫 Email: zyzhu2001@gmail.com
 
