@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Bamboo1 ~
 > A student from Beijing University of Posts and Telecommunications
 
-- 🌱 I’m currently learning Computer Architecture, ~OS, DB, Storage~...
+- 🌱 I’m currently learning AI, ~Computer Architecture, OS, DB, Storage~...
 
 - 💡 Zhihu: [秋天俯身采种子](https://www.zhihu.com/people/zhu-zi-yi-47-6)
 
