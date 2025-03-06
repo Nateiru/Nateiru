@@ -1,4 +1,4 @@
-### Hi there 👋 I am Bamboo1 ~
+### Hi there 👋 I am Ziyi Zhu ~
 > A student from Beijing University of Posts and Telecommunications
 
 - 🌱 I’m currently learning AI, ~Computer Architecture, OS, DB, Storage~...
